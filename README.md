@@ -1,6 +1,6 @@
-# {My first website}
-#### {a very cool description of myself}, {2020-4-28}
-#### By **{Ian Mukunya <imukunya@safaricom.co.ke}**
+# My first website
+#### a very cool description of myself}, {2020-4-28
+#### By **<Ian Mukunya <imukunya@safaricom.co.ke>**
 ## Description
 {This is a cool detailed description of my website. }
 ## Setup/Installation Requirements
@@ -17,4 +17,4 @@
 {imukunya@safaricom.co.ke}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{Ian Mukunya}**
+Copyright (c) {year} **Ian Mukunya**
