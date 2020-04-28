@@ -1,5 +1,5 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
+# {My first website}
+#### {a very cool description of myself}, {2020-4-28}
 #### By **{Ian Mukunya <imukunya@safaricom.co.ke}**
 ## Description
 {This is a cool detailed description of my website. }
