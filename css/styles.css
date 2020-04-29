@@ -1,0 +1,30 @@
+body{
+  background-color: #d3d3d3;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+  font-style: italic;
+}
+div.container{
+  line-height: normal;
+  margin:0 auto;
+  width:500px;
+  border:solid thin #8b4513;
+  background-color: #f5f5f5
+}
+#favourite-label{
+  font-size:12px;
+}
+/* color, background-color, font-size, font-style, font-family, and line-height. */
